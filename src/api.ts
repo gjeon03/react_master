@@ -1,4 +1,4 @@
-
+const API_KEY = "f5fe15e46c765a1c3bf914a1973efc89";
 const BASE_PATH = "https://api.themoviedb.org/3";
 const LANGUAGE_PATH = "language=ko-Kore_KR";
 
